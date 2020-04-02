@@ -9,5 +9,5 @@
  * @author Crippled Horse
  */
 public class Test {
-    
+    String test;
 }
